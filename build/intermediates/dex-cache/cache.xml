@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_054affeb31c4cddae5cd33322ee13472c02db1e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-common-1.10.0_21893a91ab6f81dbdb367d8699fede33b3ae5559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f9e95c6adadefd5b8f85512d2b60e2a0e1aefc10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.1.0/5110f05deac8f15244897b3f70e9ce413468771d/protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.1.0_2ae09c67e24d4eb5cd4b5e8bcba82ec8a69d8619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_c6eb317dae39ad37d8e50e56d57e5f2942604664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c30299c28e480bf1b75a2a234541b87f53c2d251/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_30031ae5f37cc1a3847c2304e9f2132d2e812312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_2794251669bbda62cfa05ec84a2ab4d8815e80a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_30af5875b8876a592a5cf357a6779e4f54723c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_f1391c4cfb7c8ca636f51e1643163029791495b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_3e4c466801f016c99600fdc266f47522e2b0937e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_8564ff75dbf5ff15aec303d631547cd92c68169a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fcfa00e56647b12dc73a8736af88ea859b46fca">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d3824e18e1b55d0bc4b21e6183734b2b3effa28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f98f8976dfb2429063285a53afed252f0eb52ea">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_882cf6a9103df3d7542094b56a004d920ea299af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_4ca1cdd9d94f1de5476dd753f279141160f657b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_65d8ad24686d22219df7eb82e6f1ea9e21dc5c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_4c8cf31f6936cc890e2c0e20bb930e5de4da9c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-audio/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f73e02badf8404a0c3bab95d94ec28ebe9467210">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-audio-1.10.0_bcab623878134fd6db84f81cf448b31b8878726e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_a1c64f5e6e578e0d57091d7821bfc2060e243eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ac47301774d2a49d877a68ba0c42f442422fdd">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9cdb02dcf243d799dc36b9a97dadf6f8e80c5e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d00981db16e297a76c95aba4372d200b1e2420d2">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-base-1.10.0_f24e377beb282c50bc147dfae1aa726a4932897d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d00981db16e297a76c95aba4372d200b1e2420d2">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-base-1.10.0_d182b160eecf1bf8f7085b7560c5c9d1b518a654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/filmVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_aedbb9b880a719345555aa80c965529d00bc3db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_eaf1f3aeac72d678f4d627f3fa40ffb5e852f02a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59b52b9eb8ce66d1ca136255f7b246c4b872e8f1">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b59b983392ab2aacc764a94b20d7e81eb955826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c1c8c768a02fb0017e06b78309280f64e9257ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_b949fdad8721483a709e929f036a1c65ec61f0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_7a0561fcea9b64c4216e178bb03954d97a275562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-audio/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f73e02badf8404a0c3bab95d94ec28ebe9467210">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-audio-1.10.0_25ef2e2f982e4adb738b3849293cb9dffcc04c1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/Users/vivek/code/vivekku4/appengine/FilmStripVR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-common-1.10.0_890c96767e9be428ab66ea4850dd55c3170c50a1/classes.dex" />
+    </item>
+
+</items>
